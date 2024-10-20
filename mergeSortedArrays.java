@@ -25,7 +25,7 @@ class mergeSortedArrays {
         while (i<len1 && j<len2)
         {
             if (a1[i] <= a2[j])
-                mergedArray[k++] <- a1[i++]
+                mergedArray[k++] = a1[i++];
             else
                 mergedArray[k++] = a2[j++];
         }
