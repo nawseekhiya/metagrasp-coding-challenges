@@ -1,4 +1,4 @@
-# Metagrasp Tech Designer Coding Challenges
+# Metrograsp Tech Designer Coding Challenges
 
 This repository contains solutions for the coding challenges provided during the recruitment process for the Tech Designer Intern role at Metrograsp Technology Pvt. Ltd. Each challenge has been solved using authentic and individual approaches, following the provided guidelines.
 
