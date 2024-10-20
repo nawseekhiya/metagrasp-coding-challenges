@@ -9,3 +9,12 @@
  *          sum+=n[i]
  * return sum
  */
+
+int sumOfEvenNumbers(int n[], int len) {
+    int sum=0;
+    for(int i=0;i<len-1;i++){
+        if(n[i]%2==0)
+            sum=sum+n[i];
+    }
+    return sum;
+}
